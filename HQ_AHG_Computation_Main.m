@@ -6,7 +6,7 @@
 % Name: At-A-Station Hydraulic Geometry Relations of USGS Stations 
 %
 % Description: 
-%    ?Natural streams are characterized by variation in cross-section geometry,
+%     Natural streams are characterized by variation in cross-section geometry,
 %   bed-slope, bed roughness, hydraulic slope, etc., along their channels
 %   resulting from several interacting features of the riverine system including 
 %   the effects of discharge changes, geologic context, sediment load, etc. 
