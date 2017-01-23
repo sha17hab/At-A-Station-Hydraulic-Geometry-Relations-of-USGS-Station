@@ -13,7 +13,7 @@
 %   Quantitative and qualitative assessment of river flow dynamics requires
 %   sufficient knowledge of hydraulics and these geophysical variables. 
 %
-%     Average flow condition theory expressed as ?At-A-Station? hydraulic geometry (AHG)
+%     Average flow condition theory expressed as At-A-Station hydraulic geometry (AHG)
 %   relations are site-specific power-functions, relating the mean stream
 %   channel forms (i.e. water depth, top-width, flow velocity, and flow area) to discharge
 %
@@ -48,8 +48,8 @@
 %                 Cell table containing computed flood years at the USGS
 %                 station based on the specified computation unit.
 %          1.1.6. Indx_bankfull:
-%                 Indicies of within bankfull stage streamflow and gage height
-%                 values in X_exploratory and Y_response matricies.
+%                 Indices of within bankfull stage streamflow and gage height
+%                 values in X_exploratory and Y_response matrices.
 %        1.2. {USGS station ID}_Surveyed_Data:
 %          1.2.1. Surveyed_Data_Cell_Raw:
 %                 Field Measurment data of a USGS stations 
